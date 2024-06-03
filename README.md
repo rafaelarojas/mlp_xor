@@ -8,7 +8,7 @@ Implementar um MLP para resolver o problema do XOR.
 
 Arquivo `mlq_xor.py`
 
-![demonstração](mlq.gif)
+![demonstração](mlp.gif)
 
 ---
 
@@ -16,7 +16,7 @@ Arquivo `mlq_xor.py`
 
 Arquivo `mlq_xor_torch.py`
 
-![demonstração](mlq_torch.png)
+![demonstração](mlp_torch.png)
 
 
 ---
