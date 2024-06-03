@@ -16,7 +16,7 @@ Arquivo `mlq_xor.py`
 
 Arquivo `mlq_xor_torch.py`
 
-![demonstração](mlq_torch.gif)
+![demonstração](mlq_torch.png)
 
 
 ---
